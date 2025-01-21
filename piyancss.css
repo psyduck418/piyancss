@@ -1395,7 +1395,7 @@ box-shadow: none !important;
 /*https://i.imgur.com/ny3U4BI.png    WHITE HITMARKER: https://i.imgur.com/gFiptJW.png RED HITMARKER: https://i.imgur.com/TduHFBI.png*/
 /* crosshair: https://i.imgur.com/FbVEWQC.png /*
 
-/* Kill Image/Indicator */
+/* Kill Image/Indicator 
 .animate-cont {
     content: url(https://static.wixstatic.com/media/e00165_ed25fd1d6bef4a0db753ae1f7b64ef6a~mv2.png);
     height: 100px;
@@ -1433,7 +1433,7 @@ Kill text thing
 } 
 .animate-cont>.text>span>span { 
     color: white !important;
-}
+}/*
 
 
 /*Left icons invisible*/
